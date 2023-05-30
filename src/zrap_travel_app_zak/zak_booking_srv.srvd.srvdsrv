@@ -1,0 +1,5 @@
+@EndUserText.label: 'BOoking'
+define service ZAK_BOOKING_SRV {
+  expose zak_booking;
+  expose ZAK_NEW_BOOKING;
+}
